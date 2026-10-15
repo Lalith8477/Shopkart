@@ -428,15 +428,7 @@ Run these commands from `frontend/vite-project/`.
 
 ---
 
-## 11. Deployment
 
-Deployment is optional for this project. The frontend and backend can be deployed separately, provided that the frontend is configured to use the deployed backend URL and the backend can securely connect to MongoDB.
-
-If a live deployment is available, its URL can be added here.
-
-**Live Demo:** Not deployed
-
----
 
 ## Author
 
